@@ -14,15 +14,13 @@ Passionate about solving complex problems and continuously enhancing my skills i
 - **Version Control:** Git, GitHub 
 - **Containerization:** Docker 
 - **Programming Languages:** Java (Basic Knowledge)
-- 
 ## 🏅 Certifications & Courses 
 - PHP – YouTube course 
 - Web Security & Bug Bounty and Penetration Testing – Zero to Mastery Academy 
 - SQL Bootcamp and MySQL – Udemy course 
 - PHP Laravel – YouTube course 
 - REST API in PHP – Udemy course 
-- Master Laravel & PHP (Advanced) – Udemy course 
-- Website hacking / Penetration Testing – zSecurity   
+- Master Laravel & PHP (Advanced) – Udemy course   
 
 ## 📞 Let's Connect  
 - **GitHub:** [itsmutasem](https://github.com/itsmutasem)  

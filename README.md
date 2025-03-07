@@ -5,7 +5,7 @@
 
 <!-- Header with Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dfdfdfff&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mutasem+Mustafa!;Junior+Back-End+Developer;PHP%7C+Laravel" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dfdfdfff&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mutasem+Mustafa!;Back-End+PHP+Laravel+Developer" />
 </h1>
 
 <p align="center">

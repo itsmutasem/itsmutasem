@@ -87,6 +87,6 @@ Passionate about solving complex problems and continuously enhancing my skills i
   <a href="mailto:your-email@example.com"><img src="https://cdn-icons-png.flaticon.com/512/8748/8748009.png" width="50px" alt="Email"></a>
 </p>
 
---------------------------------------------------
+---------------------------------------------------
 
 💡 *"Building the backend, securing the web!"*  

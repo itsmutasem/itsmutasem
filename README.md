@@ -46,6 +46,9 @@ Passionate about solving complex problems and continuously enhancing my skills i
       <img src="https://play-lh.googleusercontent.com/YN4OEsoWsU1QrZFcwWlI8uuGhDKc4RAlP56FFyL03VFegD5tWjZ5cNWHocC_QRE_TvA" width="50px"/>
       <br>Tailwind CSS</td>
     <td align="center">
+      <img src="https://sperovita.gallerycdn.vsassets.io/extensions/sperovita/alpinejs-syntax-highlight/1.0.1/1642647041367/Microsoft.VisualStudio.Services.Icons.Default" width="50px"/>
+      <br>Alpine.js</td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
       <br>JavaScript</td>
     <td align="center">
@@ -66,16 +69,38 @@ Passionate about solving complex problems and continuously enhancing my skills i
 --------------------------------------------------------
 
 ## **<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0MDdoaHpqeGFvMnhwNHU0N2h5eno1ZTB4anViNTB3cGFyZWppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="50px"/> GitHub Stats & Activity**
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsmutasem&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmutasem&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=10&hide_progress=false" alt="Most Used Languages">
+</div>
 
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=itsmutasem&theme=redical" alt="GitHub Contribution Graph" />
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmutasem&theme=radical&no-bg=true&no-frame=true&column=4">
+</p>
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+## 🎸 Random Meme
+
+<p align="center">
+  <img src="https://random-memer.herokuapp.com/">
 </p>
 
 --------------------------------------------------

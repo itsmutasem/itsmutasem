@@ -81,27 +81,13 @@ Passionate about solving complex problems and continuously enhancing my skills i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=10&hide_progress=false" alt="Most Used Languages">
 </div>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=itsmutasem&theme=redical" alt="GitHub Contribution Graph" />
-</p>
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsmutasem&theme=radical&no-bg=true&no-frame=true&column=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsmutasem&theme=gruvbox&no-bg=true&no-frame=true&column=8">
 </p>
 
-## 💡 Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-</p>
-
-## 🎸 Random Meme
-
-<p align="center">
-  <img src="https://random-memer.herokuapp.com/">
-</p>
 
 --------------------------------------------------
 
@@ -113,5 +99,9 @@ Passionate about solving complex problems and continuously enhancing my skills i
 </p>
 
 --------------------------------------------------
+## 💡 Random Dev Quote
 
-💡 *"Building the backend, securing the web!"*  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+

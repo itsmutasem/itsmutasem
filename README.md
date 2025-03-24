@@ -81,6 +81,10 @@ Passionate about solving complex problems and continuously enhancing my skills i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=10&hide_progress=false" alt="Most Used Languages">
 </div>
 
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=itsmutasem&theme=redical" alt="GitHub Contribution Graph" />
+</p>
+
 ## 🏆 GitHub Achievements
 
 <p align="center">

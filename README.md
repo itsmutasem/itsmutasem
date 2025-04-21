@@ -78,7 +78,7 @@ Passionate about solving complex problems and continuously enhancing my skills i
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=8&hide_progress=false" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=10&hide_progress=false" alt="Most Used Languages">
 </div>
 
 <p align="center">

@@ -82,8 +82,8 @@ Passionate about solving complex problems and continuously enhancing my skills i
 </div>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=itsmutasem&theme=redical" alt="GitHub Contribution Graph" />
-</p>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=itsmutasem&theme=redical" alt="GitHub Contribution Graph" /> -->
+<!-- </p> -->
 
 ## 🏆 GitHub Achievements
 

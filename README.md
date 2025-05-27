@@ -58,7 +58,7 @@
 
 --------------------------------------------------------
 
-## **<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0MDdoaHpqeGFvMnhwNHU0N2h5eno1ZTB4anViNTB3cGFyZWppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="50px"/> GitHub Stats & Activity**
+## 📈 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/itsmutasem">

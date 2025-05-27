@@ -1,7 +1,9 @@
+-------------------------------------------------------------
+
 <!-- Background Image -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEzbmppamVnd2p4ZXZ2eWU1MG9xZmduMW5sOXFzemtrdGk4YWoxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EGV0kWouiY1nIUPhnz/giphy.gif" alt="Background Image" width="100%" style="filter: blur(8px);"/>
-</p>
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHEzbmppamVnd2p4ZXZ2eWU1MG9xZmduMW5sOXFzemtrdGk4YWoxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EGV0kWouiY1nIUPhnz/giphy.gif" alt="Background Image" width="100%" style="filter: blur(8px);"/> -->
+<!-- </p> -->
 
 <!-- Header with Animation -->
 <h1 align="center">
@@ -9,76 +11,61 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/itsmutasem"><img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile+Views&color=red&style=plastic" alt="Profile Views"></a>
-  <a href="https://github.com/itsmutasem?tab=followers"><img src="https://img.shields.io/github/followers/itsmutasem?label=Followers&style=social"></a>
-  <a href="mailto:itsmutasem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
+  <!-- Profile Views with modern icon -->
+  <a href="https://github.com/itsmutasem">
+    <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" />
+  </a>
+  
+  <!-- Followers with animated counter -->
+  <a href="https://github.com/itsmutasem?tab=followers">
+    <img src="https://img.shields.io/github/followers/itsmutasem?label=Followers&style=for-the-badge&color=10b981&logo=github&logoColor=white" alt="GitHub followers" />
+  </a>
+  
+  <!-- Email with modern gradient -->
+  <a href="mailto:itsmutasem@gmail.com">
+    <img src="https://img.shields.io/badge/Email-itsmutasem@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
+  </a>
+  
+  <!-- LinkedIn (recommended addition) -->
+  <a href="https://linkedin.com/in/itsmutasem" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 -------------------------------------------------------
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2tmNHUwcXo1NmU4MjdiejNmcXpwcmduNndhYzIwMHV5OTJra2dyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RRi3GncwtYHTSYODaf/giphy.gif" width="50px"/> About Me  
-Junior Back-End Developer with a strong foundation in PHP, Laravel, and database management.
-Adept at building secure and efficient APIs, optimizing database performance.
-Certified in web security, with hands-on experience in creating secure and dynamic web applications.
-Passionate about solving complex problems and continuously enhancing my skills in back-end technologies and modern development practices.
 
---------------------------------------------------------
+## 🛠️ Tech Stack
+### 🔹 Backend & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+</div>
 
-## **<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNjbXprOTJvYWQyaTBqZTg1cnA4a2FxNG1pbnlhYjFheDc2enVlbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px"/> Tech Stack**
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px"/>
-      <br>PHP</td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px"/>
-      <br>Laravel</td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px"/>
-      <br>HTML</td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px"/>
-      <br>CSS</td>
-    <td align="center">
-      <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" width="50px"/>
-      <br>Bootstrap</td>
-    <td align="center">
-      <img src="https://play-lh.googleusercontent.com/YN4OEsoWsU1QrZFcwWlI8uuGhDKc4RAlP56FFyL03VFegD5tWjZ5cNWHocC_QRE_TvA" width="50px"/>
-      <br>Tailwind CSS</td>
-    <td align="center">
-      <img src="https://sperovita.gallerycdn.vsassets.io/extensions/sperovita/alpinejs-syntax-highlight/1.0.1/1642647041367/Microsoft.VisualStudio.Services.Icons.Default" width="50px"/>
-      <br>Alpine.js</td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
-      <br>JavaScript</td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"/>
-      <br>MySQL</td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px"/>
-      <br>SQLite</td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
-      <br>PostgreSQL</td>
-    <td align="center">
-      <img src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png" width="50px"/>
-      <br>Oracle</td>
-  </tr>
-</table>
+### 🔹 Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js">
+</div>
 
 --------------------------------------------------------
 
 ## **<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0MDdoaHpqeGFvMnhwNHU0N2h5eno1ZTB4anViNTB3cGFyZWppNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gJnjM552Kz2uUQvJEf/giphy.gif" width="50px"/> GitHub Stats & Activity**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmutasem&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats" />
-</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmutasem&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=12&hide_progress=false" alt="Most Used Languages">
+  <a href="https://github.com/itsmutasem">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmutasem&show_icons=true&theme=radical&hide=prs&count_private=true&custom_title=My%20GitHub%20Stats&hide_rank=false&card_width=450" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmutasem&theme=radical&card_width=450" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=12&hide_progress=false" alt="Most Used Languages">
+  </a>
 </div>
 
 <p align="center">
@@ -89,17 +76,6 @@ Passionate about solving complex problems and continuously enhancing my skills i
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=itsmutasem&theme=gruvbox&no-bg=true&no-frame=true&column=8">
-</p>
-
-
-
----------------------------------------------------
-
-## **💬 Let's Connect**
-<p align="center">
-  <a href="https://github.com/itsmutasem"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50px" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/itsmutasem/"><img <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://cdn-icons-png.flaticon.com/512/8748/8748009.png" width="50px" alt="Email"></a>
 </p>
 
 --------------------------------------------------

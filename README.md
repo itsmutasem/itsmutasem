@@ -90,7 +90,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PhpStorm">
   <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white" alt="DataGrip">
-  <img src="https://img.shields.io/badge/TablePlus-000000?style=for-the-badge&logo=tableplus&logoColor=white" alt="TablePlus">
+  <img src="https://img.shields.io/badge/TablePlus-F7DF1E?style=for-the-badge&logo=tableplus&logoColor=white" alt="TablePlus">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/HTTPie-73DC8C?style=for-the-badge&logo=httpie&logoColor=white" alt="HTTPie">
 </div>

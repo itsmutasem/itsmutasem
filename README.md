@@ -117,7 +117,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=itsmutasem&theme=gruvbox&no-bg=true&no-frame=true&column=8">
 </p>
 
----------------------------------------------------
+-----------------------------------------------------
 ## 💡 Random Dev Quote
 
 <p align="center">

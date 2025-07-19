@@ -12,9 +12,9 @@
 
 <p align="center">
   <!-- Profile Views with modern icon -->
-  <a href="https://github.com/itsmutasem">
-    <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" />
-  </a>
+<!--   <a href="https://github.com/itsmutasem"> -->
+<!--     <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" /> -->
+<!--   </a> -->
   
   <!-- Followers with animated counter -->
   <a href="https://github.com/itsmutasem?tab=followers">

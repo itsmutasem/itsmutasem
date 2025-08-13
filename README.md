@@ -75,6 +75,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/Cursor-202124?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" alt="Lovable">
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
@@ -85,6 +86,13 @@
 <div> 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+</div>
+
+### 🔹 Other Languages
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
 </div>
 
 --------------------------------------------------------

@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/REST_API-00C7B7?style=for-the-badge&logo=api&logoColor=white" alt="REST API">
 </div>
 
 ### 🔹 Frontend Development
@@ -63,7 +62,7 @@
   <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white" alt="Alpine.js">
 </div>
 
-### 🔹 Tools, IDEs
+### 🔹 Tools | IDEs | Platforms
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -81,6 +80,11 @@
   <img src="https://img.shields.io/badge/Burp_Suite-ff5722?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Cloud">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean">
 </div>
 
 ### 🔹 Operating Systems & Environments

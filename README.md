@@ -107,8 +107,8 @@
 <div align="center">
   <a href="https://github.com/itsmutasem">
 <!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsmutasem&show_icons=true&theme=radical&hide=prs&count_private=true&custom_title=My%20GitHub%20Stats&hide_rank=false&card_width=450" alt="GitHub Stats" /> -->
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmutasem&theme=radical&card_width=450" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=radical&langs_count=14&hide_progress=false" alt="Most Used Languages">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmutasem&theme=tokyonight&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmutasem&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=14&hide_progress=false" alt="Most Used Languages">
   </a>
 </div>
 

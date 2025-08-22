@@ -11,10 +11,10 @@
 </h1>
 
 <p align="center">
-  <!-- Profile Views with modern icon -->
-<!--   <a href="https://github.com/itsmutasem"> -->
-<!--     <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" /> -->
-<!--   </a> -->
+<!--   Profile Views with modern icon -->
+  <a href="https://github.com/itsmutasem">
+    <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" />
+   </a>
   
 <a href="https://github.com/itsmutasem?tab=followers">
   <img src="https://img.shields.io/github/followers/itsmutasem?label=Followers&style=for-the-badge&color=10b981&logo=github&logoColor=white" alt="GitHub followers" />
